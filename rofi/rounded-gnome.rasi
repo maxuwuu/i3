@@ -1,3 +1,6 @@
+/* ROUNDED THEME FOR ROFI - GNOME THEME */
+/* Original author: Newman Sanchez (https://github.com/newmanls) */
+/* Modified by: marzeq (https://github.com/marzeq) */
  * {
 bg: #1D1D20;
 textbox-bg: #343436;
