@@ -1,3 +1,6 @@
+/* ROUNDED THEME FOR ROFI */
+/* Author: Newman Sanchez (https://github.com/newmanls) */
+/* Modified by: marzeq (https://github.com/marzeq) */
  * {
 font: "Cantarell 12";
   background-color: transparent;
