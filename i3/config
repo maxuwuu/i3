@@ -19,7 +19,7 @@ bindsym $mod+shift+w exec vlc
 bindsym $mod+shift+s exec shutter
 bindsym $mod+shift+d exec thunar 
 bindsym $mod+shift+x exec ~/.config/i3/i3lock/lock
-bindsym $mod+shift+f exec flatpak run app.zen_browser.zen
+bindsym $mod+shift+f exec firefox
 bindsym $mod+Return exec konsole
 bindsym $mod+Shift+q kill
 bindsym $mod+d exec rofi -show drun 
