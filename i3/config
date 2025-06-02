@@ -20,7 +20,7 @@ bindsym $mod+shift+s exec shutter
 bindsym $mod+shift+d exec thunar 
 bindsym $mod+shift+x exec ~/.config/i3/i3lock/lock
 bindsym $mod+shift+f exec firefox
-bindsym $mod+Return exec konsole
+bindsym $mod+Return exec xfce4-terminal
 bindsym $mod+Shift+q kill
 bindsym $mod+d exec rofi -show drun 
 
@@ -124,4 +124,6 @@ exec_always --no-startup-id xrandr --output Virtual1 --mode 1920x1080
 gaps inner 10
 for_window [class=".*"] border pixel 2
 for_window [class=".*"] border none
+
+for_window [class="Xfce4-terminal"] floating enable
 
