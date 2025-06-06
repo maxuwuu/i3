@@ -11,6 +11,7 @@ disabled = #707880
 
 transparent : 
 
+[colors]
 background = #90000000
 background-alt = #2e2e2e
 foreground = #e0e0e0
@@ -23,7 +24,17 @@ primary =
 secondary = #a9a1e1
 alert = #e06c75
 disabled = #6c6c6c
-  
+
+
+nord : 
+[colors]
+background     = #2E3440
+background-alt = #39404f
+foreground     = #D8DEE9
+primary        = #81A1C1
+secondary      = #8FBCBB
+alert          = #BF616A
+disabled       = #4c566a
   
   
 
