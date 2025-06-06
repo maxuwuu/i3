@@ -1,0 +1,30 @@
+retro : 
+
+[colors]
+background = #c0c0c0
+background-alt = #c0c0c0
+foreground = #000c00
+primary = #000c00
+secondary = #0000ff
+alert = #A54242
+disabled = #707880
+
+transparent : 
+
+background = #90000000
+background-alt = #2e2e2e
+foreground = #e0e0e0
+primary = 
+#blue : #000c00
+#orange : #d3869b
+#purple : #b294bb
+#green : #8ec07c
+#hard red : #fb4934
+secondary = #a9a1e1
+alert = #e06c75
+disabled = #6c6c6c
+  
+  
+  
+
+  
