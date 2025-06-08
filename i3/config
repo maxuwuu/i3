@@ -22,7 +22,7 @@ bindsym $mod+shift+x exec ~/.config/i3/i3lock/lock
 bindsym $mod+shift+f exec firefox
 bindsym $mod+Return exec xfce4-terminal
 bindsym $mod+Shift+q kill
-bindsym $mod+d exec rofi -show drun 
+bindsym $mod+d exec rofi -show drun -show-icons
 
 bindsym $mod+shift+t move scratchpad
 bindsym $mod+t scratchpad show
