@@ -1,5 +1,4 @@
 retro : 
-
 [colors]
 background = #c0c0c0
 background-alt = #c0c0c0
@@ -10,7 +9,6 @@ alert = #A54242
 disabled = #707880
 
 transparent : 
-
 [colors]
 background = #90000000
 background-alt = #2e2e2e
@@ -36,6 +34,16 @@ secondary      = #8FBCBB
 alert          = #BF616A
 disabled       = #4c566a
   
-  
+monokai : 
+[colors]
+background     = #272822
+background-alt = #272822
+foreground     = #f8f8f2
+primary        = #268bd2
+secondary      = #e6db74
+alert          = #f92672
+disabled       = #586875
+
+
 
   
